@@ -1,6 +1,6 @@
-1- https://www.saucedemo.com/  sitesini açın
-2- login işlemini yapınız.
-3- Sauce Labs Backpack  a tıklatın ve sepete ekletin.
+1- https://www.saucedemo.com/  sitesini açın   //input[@id='user-name']
+2- login işlemini yapınız.                     //input[@id='password']
+3- Sauce Labs Backpack  a tıklatın ve sepete ekletin.    //input[@id='login-button']     //input[@id='login-button']
 4- Sonra geri dönün (Back to products e tıklatın)
 5- Sauce Labs Bolt T-Shirt  a tıklatın ve sepete ekleyin.
 6- sepete tıklatın
